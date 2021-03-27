@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Tony Knnv\Tony Knnv\bin\Debug\Tony Knnv.exe.config
+C:\Users\admin\Desktop\Tony Knnv\Tony Knnv\bin\Debug\Tony Knnv.exe
+C:\Users\admin\Desktop\Tony Knnv\Tony Knnv\bin\Debug\Tony Knnv.pdb
+C:\Users\admin\Desktop\Tony Knnv\Tony Knnv\obj\Debug\Tony Knnv.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Tony Knnv\Tony Knnv\obj\Debug\Tony Knnv.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tony Knnv\Tony Knnv\obj\Debug\Tony Knnv.exe
+C:\Users\admin\Desktop\Tony Knnv\Tony Knnv\obj\Debug\Tony Knnv.pdb
